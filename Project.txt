@@ -1,0 +1,5 @@
+
+OS:
+Arch: x64
+CPU: 24 Pro 
+RAM: 128 GB
