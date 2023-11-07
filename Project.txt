@@ -1,0 +1,4 @@
+Platform: Cloud
+Ec2: c5 Large
+EBS: gp3
+snapshots:enable
